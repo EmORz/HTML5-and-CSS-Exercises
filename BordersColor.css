@@ -1,0 +1,19 @@
+.red{
+    border: solid 1px red;
+    border-radius:  7px ;
+    text-align: center;
+    background-color: #979797;
+}
+.green{
+    border: solid 1px green;
+    border-radius:  7px ;
+    text-align: center;
+    background-color: #979797;
+}
+
+.blue{
+    border: solid 1px blue;
+    border-radius:  7px ;
+    text-align: center;
+    background-color: #979797;
+}
